@@ -1,0 +1,11 @@
+* {
+    background-color: antiquewhite;
+    text-align: center;
+    font-size: 20pt;
+}
+h1 {
+    color: #ff0000;
+    font-size: 2rem;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
